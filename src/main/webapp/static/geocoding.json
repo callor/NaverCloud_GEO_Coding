@@ -1,0 +1,175 @@
+{
+	"status": "OK",
+	"meta": {
+		"totalCount": 2,
+		"page": 1,
+		"count": 2
+	},
+	"addresses": [
+		{
+			"roadAddress": "광주광역시 북구 용봉동",
+			"jibunAddress": "광주광역시 북구 용봉동",
+			"englishAddress": "Yongbong-dong, Buk-gu, Gwangju, Republic of Korea",
+			"addressElements": [
+				{
+					"types": [
+						"SIDO"
+					],
+					"longName": "광주광역시",
+					"shortName": "광주광역시",
+					"code": ""
+				},
+				{
+					"types": [
+						"SIGUGUN"
+					],
+					"longName": "북구",
+					"shortName": "북구",
+					"code": ""
+				},
+				{
+					"types": [
+						"DONGMYUN"
+					],
+					"longName": "용봉동",
+					"shortName": "용봉동",
+					"code": ""
+				},
+				{
+					"types": [
+						"RI"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"ROAD_NAME"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"BUILDING_NUMBER"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"BUILDING_NAME"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"LAND_NUMBER"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"POSTAL_CODE"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				}
+			],
+			"x": "126.9012011",
+			"y": "35.1804419",
+			"distance": 0.0
+		},
+		{
+			"roadAddress": "광주광역시 광산구 용봉동",
+			"jibunAddress": "광주광역시 광산구 용봉동",
+			"englishAddress": "Yongbong-dong, Gwangsan-gu, Gwangju, Republic of Korea",
+			"addressElements": [
+				{
+					"types": [
+						"SIDO"
+					],
+					"longName": "광주광역시",
+					"shortName": "광주광역시",
+					"code": ""
+				},
+				{
+					"types": [
+						"SIGUGUN"
+					],
+					"longName": "광산구",
+					"shortName": "광산구",
+					"code": ""
+				},
+				{
+					"types": [
+						"DONGMYUN"
+					],
+					"longName": "용봉동",
+					"shortName": "용봉동",
+					"code": ""
+				},
+				{
+					"types": [
+						"RI"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"ROAD_NAME"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"BUILDING_NUMBER"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"BUILDING_NAME"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"LAND_NUMBER"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				},
+				{
+					"types": [
+						"POSTAL_CODE"
+					],
+					"longName": "",
+					"shortName": "",
+					"code": ""
+				}
+			],
+			"x": "126.776538",
+			"y": "35.0769",
+			"distance": 0.0
+		}
+	],
+	"errorMessage": ""
+}

@@ -1,0 +1,131 @@
+{
+	"status": {
+		"code": 0,
+		"name": "ok",
+		"message": "done"
+	},
+	"results": [
+		{
+			"name": "legalcode",
+			"code": {
+				"id": "2917010700",
+				"type": "L",
+				"mappingId": "05170107"
+			},
+			"region": {
+				"area0": {
+					"name": "kr",
+					"coords": {
+						"center": {
+							"crs": "",
+							"x": 0.0,
+							"y": 0.0
+						}
+					}
+				},
+				"area1": {
+					"name": "광주광역시",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.851338,
+							"y": 35.160032
+						}
+					},
+					"alias": "광주"
+				},
+				"area2": {
+					"name": "북구",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.911963,
+							"y": 35.17406
+						}
+					}
+				},
+				"area3": {
+					"name": "용봉동",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.9012011,
+							"y": 35.1804419
+						}
+					}
+				},
+				"area4": {
+					"name": "",
+					"coords": {
+						"center": {
+							"crs": "",
+							"x": 0.0,
+							"y": 0.0
+						}
+					}
+				}
+			}
+		},
+		{
+			"name": "admcode",
+			"code": {
+				"id": "2917059000",
+				"type": "S",
+				"mappingId": "05170107"
+			},
+			"region": {
+				"area0": {
+					"name": "kr",
+					"coords": {
+						"center": {
+							"crs": "",
+							"x": 0.0,
+							"y": 0.0
+						}
+					}
+				},
+				"area1": {
+					"name": "광주광역시",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.851338,
+							"y": 35.160032
+						}
+					},
+					"alias": "광주"
+				},
+				"area2": {
+					"name": "북구",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.911963,
+							"y": 35.17406
+						}
+					}
+				},
+				"area3": {
+					"name": "용봉동",
+					"coords": {
+						"center": {
+							"crs": "EPSG:4326",
+							"x": 126.9012011,
+							"y": 35.1804419
+						}
+					}
+				},
+				"area4": {
+					"name": "",
+					"coords": {
+						"center": {
+							"crs": "",
+							"x": 0.0,
+							"y": 0.0
+						}
+					}
+				}
+			}
+		}
+	]
+}
